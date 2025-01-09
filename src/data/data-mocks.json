@@ -1,0 +1,110 @@
+[
+  {
+	"id": 1,
+	"title": "How To Learn Math for Machine Learning, Fast",
+	"subheading": "Even with zero math background",
+	"layout": [
+	  {
+		"type": "text",
+		"content": "Do you want to become a Data Scientist or machine learning engineer, but you feel intimidated by all the math involved? I get it. I’ve been there."
+	  },
+	  {
+		"type": "image",
+		"src": "https://miro.medium.com/v2/resize:fit:1100/format:webp/1*hT-zhfvUhUFwVxu5FVuNdw.jpeg",
+		"alt": "Mathematical equations on a chalkboard",
+		"credit": {
+		  "photographer": "Antoine Dautry",
+		  "link": "https://unsplash.com/@antoinedautry",
+		  "source": "Unsplash"
+		}
+	  },
+	  {
+		"type": "text",
+		"content": "I dropped out of High School after 10th grade, so I never learned any math beyond trigonometry in school. When I started my journey into Machine Learning, I didn’t even know what a derivative was."
+	  },
+	  {
+		"type": "text",
+		"content": "Fast forward to today, and I’m an Applied Scientist at Amazon, and I feel pretty confident in my math skills."
+	  }
+	],
+	"affiliateLinks": [
+	  {
+		"id": 1,
+		"text": "Read Full Article Here",
+		"url": "https://towardsdatascience.com/how-to-learn-math-for-machine-learning-fast-even-with-zero-math-background-159757833c3a"
+	  }
+	]
+  },
+  {
+	"id": 2,
+	"title": "How to Create a Customized GenAI Video in 3 Simple Steps",
+	"subheading": "Put a real-world object into fully AI-generated 4D scenes with minimal effort, so that it can star in your videos.",
+	"layout": [
+	  {
+		"type": "text",
+		"content": "Progress in generative AI (GenAI) is astonishingly fast. It’s becoming more mature in various text-driven tasks, going from typical natural language processing (NLP) to independent AI agents, capable of performing high-level tasks by themselves."
+	  },
+	  {
+		"type": "image",
+		"src": "https://miro.medium.com/v2/resize:fit:1100/format:webp/1*esLLRNMQqeEJrXW23TbZmg.png",
+		"alt": "AI-generated video example",
+		"credit": {
+		  "photographer": "Ruben Broekx",
+		  "link": "https://towardsdatascience.com/@rubenbroekx",
+		  "source": "Towards Data Science"
+		}
+	  },
+	  {
+		"type": "text",
+		"content": "However, it’s still in its infancy for image, audio, and video creation. While these domains are still new, hard to control, and occasionally gimmicky, they are getting better month by month."
+	  },
+	  {
+		"type": "text",
+		"content": "In this article, I focus on video generation and show you how you can generate your own videos featuring yourself or actual real-world objects."
+	  }
+	],
+	"affiliateLinks": [
+	  {
+		"id": 1,
+		"text": "Read Full Article Here",
+		"url": "https://towardsdatascience.com/how-to-create-a-customized-genai-video-in-3-simple-steps-e60dfdbb82f6"
+	  }
+	]
+  },
+  {
+	"id": 3,
+	"title": "17 Mindblowing GitHub Repositories You Never Knew Existed",
+	"subheading": "GitHub Hidden Gems!!",
+	"layout": [
+	  {
+		"type": "text",
+		"content": "Learning to code is relatively easy, but mastering the art of writing better code is much tougher. GitHub serves as a treasure trove for developers, where the 'gold' is the well-crafted code shared by others."
+	  },
+	  {
+		"type": "image",
+		"src": "https://miro.medium.com/v2/resize:fit:1100/format:webp/1*Rhe1pe7cFOuFKF6Neh38kw.jpeg",
+		"alt": "close up of laptops and hands writing",
+		"credit": {
+		  "photographer": "Kafeel Ahmad",
+		  "link": "https://dev.to/kafeel_ahmad",
+		  "source": "DEV Community"
+		}
+	  },
+	  {
+		"type": "text",
+		"content": "By exploring GitHub, you can discover how to write cleaner code, understand what quality code looks like, and learn the essential steps to becoming a more skilled developer."
+	  },
+	  {
+		"type": "text",
+		"content": "Here are 17 mindblowing GitHub repositories that you might not have heard of, but can significantly enhance your development skills."
+	  }
+	],
+	"affiliateLinks": [
+	  {
+		"id": 1,
+		"text": "Read Full Article Here",
+		"url": "https://dev.to/kafeel_ahmad/17-mindblowing-github-repositories-you-never-knew-existed-555g"
+	  }
+	]
+  }
+]

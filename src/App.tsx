@@ -1,6 +1,6 @@
 
 import './App.css'
-import { Blog } from "./components/Blog.tsx";
+import { BlogList } from "./components/BlogList.tsx";
 import {Header} from "./components/Header.tsx";
 import { Profile } from "./components/Profile.tsx";
 import { BrowserRouter as Router, Routes, Route } from "react-router-dom";
@@ -11,7 +11,7 @@ function App() {
     <Router>
         <Header />
         <Routes>
-            <Route path="/" element={<Blog />} />
+            <Route path="/" element={  <BlogList />} />
             <Route path="/profile" element={<Profile />} />
         </Routes>
     </Router>

@@ -1,0 +1,66 @@
+.blog-container {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding: 2rem;
+    margin-bottom: 2rem;
+    -webkit-border-radius: 5px;
+    border-radius: 5px;
+    background: #D1D8EC;
+    -webkit-box-shadow: 12px 12px 24px #b2b8c9, -12px -12px 24px #f0f8ff;
+    box-shadow: 12px 12px 24px #b2b8c9, -12px -12px 24px #f0f8ff;
+}
+
+.blog-image {
+    position: relative;
+    width: 75%;
+    border-radius: 5px;
+    background: #D1D8EC;
+    box-shadow:  25px 25px 33px #bac0d2,
+    -25px -25px 33px #e8f0ff;
+    margin: 2rem auto; /* Zero out any margin */
+    overflow: hidden; /* Prevents overflow */
+    padding: 0; /* Zero out any padding */
+
+}
+
+/*this is the title container*/
+.blog-title {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+
+    h1 {
+        font-size: 2rem;
+        text-align: center;
+        width: 75%;
+    }
+
+    p {
+        font-size: 1.5rem;
+        text-align: center;
+        width: 75%;
+        font-weight: 600;
+    }
+
+}
+
+/* Blog Link Container */
+.blog-links {
+    margin-top: 1rem;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width: 75%;
+    padding: 2rem 0;
+    margin-bottom: 1rem;
+
+    /*neumorphism*/
+    border-radius: 5px;
+    background: #D1D8EC;
+    -webkit-box-shadow: 12px 12px 24px #b2b8c9, -12px -12px 24px #f0f8ff;
+    box-shadow: 12px 12px 24px #b2b8c9, -12px -12px 24px #f0f8ff;
+}

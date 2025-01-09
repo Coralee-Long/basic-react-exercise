@@ -25,10 +25,9 @@ body {
   display: flex;
   flex-direction: column;
   justify-content: center;
-  align-items: flex-start;
   min-height: 100vh;
   width: 100vw;
-  max-width: 1000px;
+  max-width: 80%;
   padding: 0;
   background: #D1D8EC;
   color: #1b0d41;
@@ -46,8 +45,8 @@ header {
 
 
   /*neumorphism*/
-  -webkit-border-radius: 25px;
-  border-radius: 25px;
+  -webkit-border-radius: 5px;
+  border-radius: 5px;
   background: #D1D8EC;
   -webkit-box-shadow: 12px 12px 24px #b2b8c9, -12px -12px 24px #f0f8ff;
   box-shadow: 12px 12px 24px #b2b8c9, -12px -12px 24px #f0f8ff;
@@ -96,20 +95,20 @@ section {
 
 }
 
-.container {
-  display: flex;
-  flex-direction: column;
-  justify-content: center;
-  align-items: center;
-  padding: 2rem;
-  margin-bottom: 2rem;
+/*.container {*/
+/*  display: flex;*/
+/*  flex-direction: column;*/
+/*  justify-content: center;*/
+/*  align-items: center;*/
+/*  padding: 2rem;*/
+/*  margin-bottom: 2rem;*/
 
-  -webkit-border-radius: 25px;
-  border-radius: 25px;
-  background: #D1D8EC;
-  -webkit-box-shadow: 12px 12px 24px #b2b8c9, -12px -12px 24px #f0f8ff;
-  box-shadow: 12px 12px 24px #b2b8c9, -12px -12px 24px #f0f8ff;
-}
+/*  -webkit-border-radius: 25px;*/
+/*  border-radius: 25px;*/
+/*  background: #D1D8EC;*/
+/*  -webkit-box-shadow: 12px 12px 24px #b2b8c9, -12px -12px 24px #f0f8ff;*/
+/*  box-shadow: 12px 12px 24px #b2b8c9, -12px -12px 24px #f0f8ff;*/
+/*}*/
 
 .top-quote-section {
   display: flex;
@@ -120,8 +119,8 @@ section {
   padding: 2rem 0;
   margin-bottom: 1rem;
 
-  /*neumorphism*/
-  border-radius: 27px;
+  /*neumorphism*/5
+  border-radius: px;
   background: #c4c4c4;
   box-shadow:  20px 20px 60px #acacac,
   -20px -20px 60px #dcdcdc;
@@ -133,31 +132,31 @@ blockquote {
 
 }
 
-.article-link {
-  margin: 2rem 0;
-  padding: 1rem 3rem;
-  font-weight: bold;
-  border-radius: 59px;
-  background: #D1D8EC;
-  box-shadow:  25px 25px 33px #bac0d2,
-  -25px -25px 33px #e8f0ff;
-  a {
-    text-decoration: none !important;
-    color: #3a0495;
-  }
-}
+/*.article-link {*/
+/*  margin: 2rem 0;*/
+/*  padding: 1rem 3rem;*/
+/*  font-weight: bold;*/
+/*  border-radius: 59px;*/
+/*  background: #D1D8EC;*/
+/*  box-shadow:  25px 25px 33px #bac0d2,*/
+/*  -25px -25px 33px #e8f0ff;*/
+/*  a {*/
+/*    text-decoration: none !important;*/
+/*    color: #3a0495;*/
+/*  }*/
+/*}*/
 
-figure {
-  position: relative;
-  width: 75%;
-  border-radius: 20px;
-  background: #D1D8EC;
-  box-shadow:  25px 25px 33px #bac0d2,
-  -25px -25px 33px #e8f0ff;
-  margin: 1rem auto; /* Zero out any margin */
-  overflow: hidden; /* Prevents overflow */
-  padding: 0; /* Zero out any padding */
-}
+/*figure {*/
+/*  position: relative;*/
+/*  width: 75%;*/
+/*  border-radius: 20px;*/
+/*  background: #D1D8EC;*/
+/*  box-shadow:  25px 25px 33px #bac0d2,*/
+/*  -25px -25px 33px #e8f0ff;*/
+/*  margin: 1rem auto; !* Zero out any margin *!*/
+/*  overflow: hidden; !* Prevents overflow *!*/
+/*  padding: 0; !* Zero out any padding *!*/
+/*}*/
 
 img {
   width: 100%;
@@ -182,11 +181,7 @@ figcaption {
 }
 
 
-h1 {
-  font-size: 2rem;
-  text-align: center;
-  width: 75%;
-}
+
 
 h2 {
   font-size: 1.6rem;
@@ -211,8 +206,8 @@ p {
   margin-bottom: 2rem;
 
   /*neumorphism*/
-  -webkit-border-radius: 25px;
-  border-radius: 25px;
+  -webkit-border-radius: 5px;
+  border-radius: 5px;
   background: #D1D8EC;
   -webkit-box-shadow: 12px 12px 24px #b2b8c9, -12px -12px 24px #f0f8ff;
   box-shadow: 12px 12px 24px #b2b8c9, -12px -12px 24px #f0f8ff;
@@ -247,8 +242,8 @@ figcaption {
   justify-content: center;
   align-items: flex-end;
   margin-bottom: 2rem;
-  -webkit-border-radius: 25px;
-  border-radius: 25px;
+  -webkit-border-radius: 5px;
+  border-radius: 5px;
   background: #D1D8EC;
   -webkit-box-shadow: 12px 12px 24px #b2b8c9, -12px -12px 24px #f0f8ff;
   box-shadow: 12px 12px 24px #b2b8c9, -12px -12px 24px #f0f8ff;
@@ -267,7 +262,7 @@ figcaption {
   height: inherit;
   width: auto; /* Maintain aspect ratio */
   object-fit: cover; /* Ensure proper scaling within the block */
-  border-radius: 25px; /* Match the container's border-radius */
+  border-radius: 5px; /* Match the container's border-radius */
 
 }
 
