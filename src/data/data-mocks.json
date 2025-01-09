@@ -6,7 +6,7 @@
 	"layout": [
 	  {
 		"type": "text",
-		"content": "Do you want to become a Data Scientist or machine learning engineer, but you feel intimidated by all the math involved? I get it. I’ve been there."
+		"content": "Do you want to become a Data Scientist or machine learning engineer, but you feel intimidated by all the math involved? I get it. I’ve been there.\n\nI dropped out of High School after 10th grade, so I never learned any math beyond trigonometry in school. When I started my journey into Machine Learning, I didn’t even know what a derivative was.\n\nFast forward to today, and I’m an Applied Scientist at Amazon, and I feel pretty confident in my math skills.\n\nI’ve picked up the necessary math along the way using free resources and self-directed learning. Today I’m going to walk you through some of my favorite books, courses, and YouTube channels that helped me get to where I am today, and I’ll also share some tips on how to study effectively and not waste your time struggling and being bored."
 	  },
 	  {
 		"type": "image",
@@ -20,20 +20,27 @@
 	  },
 	  {
 		"type": "text",
-		"content": "I dropped out of High School after 10th grade, so I never learned any math beyond trigonometry in school. When I started my journey into Machine Learning, I didn’t even know what a derivative was."
+		"content": "Do You Even Need to Know Math for ML?\nFirst, let’s address a common question: Do you even really need to know the math to work in ML?\n\nThe short answer is: it depends on what you want to do.\n\nFor research-heavy roles where you’re creating new ML algorithms, then yes, you obviously need to know the math. But if you’re asking yourself if you need to learn math, chances are that’s not the kind of job you’re looking for…\n\nBut for practitioners — most of us in the industry — you can often be totally competent without knowing all the underlying details, especially as a beginner.\n\nAt this point, libraries like numpy, scikit-learn, and Tensorflow handle most of the heavy lifting for you. You don’t need to know the math behind gradient descent to deploy a model to production.\n\nIf you’re a beginner trying to get into ML, in my opinion it is not strategic to spend a bunch of time memorizing formulas or studying linear algebra — you should be spending that time building things. Train a simple model. Explore your data. Build a pipeline that predicts something fun.\n\nThat said, there are moments where knowing the math really helps. Here are a few examples:\n\nImagine you’re training a model and it’s not converging. If you understand concepts like gradients and optimization functions, you’ll know whether to adjust your learning rate, try a different optimizer, or tweak your data preprocessing."
 	  },
 	  {
 		"type": "text",
-		"content": "Fast forward to today, and I’m an Applied Scientist at Amazon, and I feel pretty confident in my math skills."
+		"content": "Fast forward to today, and I’m an Applied Scientist at Amazon, and I feel pretty confident in my math skills.\n\nI’ve picked up the necessary math along the way using free resources and self-directed learning. Today I’m going to walk you through some of my favorite books, courses, and YouTube channels that helped me get to where I am today, and I’ll also share some tips on how to study effectively and not waste your time struggling and being bored.\n\nDo You Even Need to Know Math for ML?\nFirst, let’s address a common question: Do you even really need to know the math to work in ML?\n\nThe short answer is: it depends on what you want to do.\n\nFor research-heavy roles where you’re creating new ML algorithms, then yes, you obviously need to know the math. But if you’re asking yourself if you need to learn math, chances are that’s not the kind of job you’re looking for…\n\nBut for practitioners — most of us in the industry — you can often be totally competent without knowing all the underlying details, especially as a beginner.\n\nAt this point, libraries like numpy, scikit-learn, and Tensorflow handle most of the heavy lifting for you. You don’t need to know the math behind gradient descent to deploy a model to production."
+	  },
+	  {
+		"type": "text",
+		"content": "If you want more advice on how to break into data science, you can download a free 80+ page e-book on how to get your first data science job (learning resources, project ideas, LinkedIn checklist, and more): https://gratitudedriven.com/\n\nOr, check out my YouTube channel!\n\nFinally, just a heads up, there are affiliate links in this post. So, if you buy something I’ll earn a small commission, at no additional cost to you. Thank you for your support."
 	  }
 	],
-	"affiliateLinks": [
-	  {
-		"id": 1,
-		"text": "Read Full Article Here",
-		"url": "https://towardsdatascience.com/how-to-learn-math-for-machine-learning-fast-even-with-zero-math-background-159757833c3a"
-	  }
-	]
+	"meta": {
+	  "id": 1,
+	  "author": {
+		"name": "John Doe",
+		"avatar": "https://randomuser.me/api/portraits/men/32.jpg"
+	  },
+	  "date": "2025-01-01",
+	  "hashtags": ["#Math", "#MachineLearning", "#AI", "#ArtificialIntelligence"],
+	  "url": "https://towardsdatascience.com/how-to-learn-math-for-machine-learning-fast-even-with-zero-math-background-159757833c3a"
+	}
   },
   {
 	"id": 2,
@@ -63,13 +70,16 @@
 		"content": "In this article, I focus on video generation and show you how you can generate your own videos featuring yourself or actual real-world objects."
 	  }
 	],
-	"affiliateLinks": [
-	  {
-		"id": 1,
-		"text": "Read Full Article Here",
-		"url": "https://towardsdatascience.com/how-to-create-a-customized-genai-video-in-3-simple-steps-e60dfdbb82f6"
-	  }
-	]
+	"meta": {
+	  "id": 2,
+	  "author": {
+		"name": "Jane Smith",
+		"avatar": "https://randomuser.me/api/portraits/women/45.jpg"
+	  },
+	  "date": "2025-01-05",
+	  "hashtags": ["#GenerativeAI", "#VideoEditing", "#AI", "#ComputerScience"],
+	  "url": "https://towardsdatascience.com/how-to-create-a-customized-genai-video-in-3-simple-steps-e60dfdbb82f6"
+	}
   },
   {
 	"id": 3,
@@ -99,12 +109,15 @@
 		"content": "Here are 17 mindblowing GitHub repositories that you might not have heard of, but can significantly enhance your development skills."
 	  }
 	],
-	"affiliateLinks": [
-	  {
-		"id": 1,
-		"text": "Read Full Article Here",
-		"url": "https://dev.to/kafeel_ahmad/17-mindblowing-github-repositories-you-never-knew-existed-555g"
-	  }
-	]
+	"meta": {
+	  "id": 3,
+	  "author": {
+		"name": "Michael Lee",
+		"avatar": "https://randomuser.me/api/portraits/men/83.jpg"
+	  },
+	  "date": "2025-01-09",
+	  "hashtags": ["#GitHub", "#OpenSource", "#Coding", "#Repositories"],
+	  "url": "https://dev.to/kafeel_ahmad/17-mindblowing-github-repositories-you-never-knew-existed-555g"
+	}
   }
 ]

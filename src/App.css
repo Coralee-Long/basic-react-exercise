@@ -167,16 +167,18 @@ img {
 }
 
 figcaption {
-  position: absolute;
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-end;
   bottom: 10px;
   right: 10px;
-  color: white;
+  color: #1b0d41;
   padding: 8px 12px; /* Provides internal spacing */
   margin: 0; /* Ensures no extra space outside */
 
   a {
-    text-decoration: none;
-    color: #b7a5e8;
+
+    color: #7b5fc9;
   }
 }
 
